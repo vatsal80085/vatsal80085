@@ -1,9 +1,7 @@
-# Vatsal Agarwal
-
+# [Vatsal Agarwal](https://vatsal80085.github.io/)
 Computer Science undergraduate with a strong foundation in programming, object-oriented design, and full-stack fundamentals.  
 Focused on backend architecture, applied AI, building maintainable systems and strengthening core software engineering skills..
 
-vatsal80085.github.io/
 ---
 
 ## About Me
