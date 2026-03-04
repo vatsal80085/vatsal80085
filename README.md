@@ -3,7 +3,7 @@
 Computer Science undergraduate with a strong foundation in programming, object-oriented design, and full-stack fundamentals.  
 Focused on backend architecture, applied AI, building maintainable systems and strengthening core software engineering skills..
 
-https://vatsal80085.github.io/
+vatsal80085.github.io/
 ---
 
 ## About Me
