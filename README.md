@@ -1,14 +1,16 @@
-# [Vatsal Agarwal](https://vatsal80085.github.io/)
-Computer Science undergraduate with a strong foundation in programming, object-oriented design, and full-stack fundamentals.  
-Focused on backend architecture, applied AI, building maintainable systems and strengthening core software engineering skills..
+# Vatsal Agarwal
 
+Computer Science undergraduate with a strong foundation in programming, object-oriented design, and full-stack fundamentals.  
+Focused on backend architecture, applied AI, building maintainable systems, and strengthening core software engineering skills.
+
+### [View Live Portfolio](https://vatsal80085.github.io/)
 ---
 
 ## About Me
 
 - Computer Science student with hands-on experience in Java, web development, and backend logic
 - Strong interest in backend engineering and system design
-- Actively preparing for **SDE-1 roles**
+- Actively preparing for **SDE-1 level roles**
 - Prefer clean architecture, clarity of thought, and depth over superficial tooling
 
 ---
@@ -16,7 +18,7 @@ Focused on backend architecture, applied AI, building maintainable systems and s
 ## Technical Skills
 
 **Languages**
-- Java, JavaScript, Python
+- Java, TypeScript, JavaScript, Python
 
 **Core Concepts**
 - Object-Oriented Programming (OOP)
@@ -24,12 +26,11 @@ Focused on backend architecture, applied AI, building maintainable systems and s
 - Modular design and separation of concerns
 
 **Web Development**
-- HTML, CSS, JavaScript, TailwindCSS
-- React 
+- React, HTML, CSS, TailwindCSS
 
 **Backend & Databases**
-- Java (console applications)
-- Node.js
+- Java (Spring Boot)
+- Node.js, Express
 - MongoDB
 
 **Tools & Platforms**
@@ -41,37 +42,35 @@ Focused on backend architecture, applied AI, building maintainable systems and s
 
 ## Selected Projects
 
-### Ticket Booking System (Java)
-- Console-based ticket booking application implemented in Java
-- Emphasis on object-oriented design and clean control flow
-- Handles booking logic, validation, and state management
+### Beacon | AI-Driven Agile Optimization Engine
+*Status: Completed*
+- Full-stack web application built on the MERN stack designed to streamline and optimize Agile sprint planning.
+- Engineered backend data models and routing to handle complex sprint tracking and project management workflows.
+- Focused on delivering a highly functional, responsive UI integrated with robust backend architecture.
 
-### Student Result Management System
-- Academic management system for handling student records and results
-- Implements CRUD operations and data handling
-- Focused on strengthening backend logic and program structure
+### Pharos | Full-Stack File Storage Service
+*Status: In Progress*
+- Architecting a scalable file storage backend utilizing Java and Spring Boot.
+- Developing a strictly-typed, maintainable frontend interface using React and TypeScript.
+- Designing with a heavy emphasis on clean architecture, efficient data handling, and clear separation of concerns.
 
-### bridge-labs-3D
-- Java-based project implementing core **OOP concepts**
-- Practical application of classes, objects, inheritance, polymorphism, and abstraction
-- Built to reinforce strong Java fundamentals through hands-on coding
+### Automated CI/CD Deployment Pipeline (project10devops)
+*Status: Completed*
+- Engineered a fully automated CI/CD pipeline to build, test, and deploy a containerized Java (Maven) Word Count web application.
+- Configured **GitHub Webhooks** to trigger automated builds in **Jenkins** immediately upon code pushes.
+- Containerized the application using a multi-stage **Dockerfile** to ensure lightweight, consistent, and reproducible runtime environments.
+- Orchestrated automated deployment workflows to build images and host containerized applications seamlessly on **AWS** infrastructure.
 
-### Frontend_Dev
-- Collection of frontend practice projects
-- Built using HTML, CSS, and JavaScript
-- Focus on layouts, responsiveness, and UI basics
-
-### project10devops
-- Introductory DevOps-oriented project
-- Explores CI/CD concepts and automation fundamentals
-- Used for learning deployment workflows and tooling basics
+### Core OOP & System Logic Projects
+- **Ticket Booking & Student Management Systems:** Developed robust Java console applications to solidify data validation, state management, and CRUD operations.
+- **bridge-labs-3D:** Hands-on implementation of core OOP principles including inheritance, polymorphism, and abstraction to reinforce foundational Java skills.
 
 ---
 
 ## Currently Learning
 
-- Advanced Java and deeper OOP design principles
-- Data Structures and Algorithms for sharpening problem solving abilities and for interviews
+- Advanced Java and deeper Spring Boot design principles
+- Data Structures and Algorithms for sharpening problem-solving abilities and for interviews
 - Backend development and system design fundamentals
 
 ---
